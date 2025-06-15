@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hey, I'm Snehal 👩‍💻  <ul><li>I love turning ideas into cool, functional things✨</li>  <li>Big fan of clean UIs, clever logic, and meaningful impact💡</li> <li><strong>Building projects that *actually* help people? Count me in.</strong> </li> <li>I care a lot about accessibility, inclusiveness & good design ♿🎨</li>    <li>Forever learning, breaking stuff, and fixing it better 🔁 </li> <li>If it’s fun, challenging, or slightly chaotic—I’m probably in 😄</li>  
-<br>Let’s build something awesome together! 🚀
-
+Let’s build something awesome together! 🚀
+<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/snehalsanap) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:snehalsanap307@gmail.com) 
