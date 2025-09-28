@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hey, I'm Snehal 👩‍💻  <ul><li>I love turning ideas into cool, functional things✨</li>  <li>Big fan of clean UIs, clever logic, and meaningful impact💡</li> <li><strong>Building projects that *actually* help people? Count me in.</strong> </li> <li>I care a lot about accessibility, inclusiveness & good design ♿🎨</li>    <li>Forever learning, breaking stuff, and fixing it better 🔁 </li> <li><strong>If it’s fun, challenging, or slightly chaotic—I’m probably in 😄</strong></li>  
+# 💫 Hey, I'm Snehal 
+<ul><li>I love turning ideas into cool, functional things✨</li>  <li>Big fan of clean UIs, clever logic, and meaningful impact💡</li> <li><strong>Building projects that *actually* help people? Count me in.</strong> </li> <li>I care a lot about accessibility, inclusiveness & good design ♿🎨</li>    <li>Forever learning, breaking stuff, and fixing it better 🔁 </li> <li><strong>If it’s fun, challenging, or slightly chaotic—I’m probably in 😄</strong></li>  
 Let’s build something awesome together! 🚀
 <br>
 
