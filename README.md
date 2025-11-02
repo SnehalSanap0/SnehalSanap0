@@ -11,7 +11,6 @@
   <a href="https://bento.me/snehalsanap"><img src="https://img.shields.io/badge/Bento-%23121011.svg?style=for-the-badge&logo=bento&logoColor=white"/></a>
   <a href="https://medium.com/@snehalsanap307"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href="https://x.com/SnehalSana1367"><img src="https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
-  <a href="https://www.instagram.com/_snehal_sanap_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
@@ -39,13 +38,6 @@
 ### 🟩 Yearly Contribution Heatmap
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SnehalSanap0&theme=github-dark&hide_border=false&area=true" />
-</p>
-
----
-
-### ⚙️ Summary Metrics
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SnehalSanap0&theme=tokyonight" />
 </p>
 
 ---
