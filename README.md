@@ -8,7 +8,7 @@
   <a href="https://discord.com/channels/1398144471048126474/1398144471048126477"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://snehalsanap.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://medium.com/@snehalsanap307"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="https://x.com/SnehalSana1367"><img src="https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
+  <a href="https://x.com/SnehalSanap0"><img src="https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
 </h1>
 
 <h1 align="center">
